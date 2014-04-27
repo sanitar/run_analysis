@@ -11,4 +11,4 @@ Before runing this script you should install reshape2 package (in your r-consol 
 3. The output file will be created — "tidy_data.txt"
 
 
-*You can find additional information about the script in CodeBook.md*
+*You can find additional information about the script in [CodeBook.md](https://github.com/sanitar/run_analysis/blob/master/CodeBook.md)*
